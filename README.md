@@ -1,2 +1,1 @@
-# Mastering Embedded Online Diploma
-Online Embedded Diploma Assignments
+#Mastering Embedded Online Diploma
